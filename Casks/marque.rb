@@ -12,6 +12,8 @@ cask "marque" do
     strategy :github_latest
   end
 
+  depends_on :macos
+
   app "Marque.app"
   binary "#{appdir}/Marque.app/Contents/MacOS/marque"
 
