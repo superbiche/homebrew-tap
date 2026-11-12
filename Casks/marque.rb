@@ -1,6 +1,6 @@
 cask "marque" do
-  version "0.4.9"
-  sha256 "ecc1c4a63bd9a78ff819752c8193cf7b22cdb1dcc61ba477c79f802748a30955"
+  version "0.4.10"
+  sha256 "178623f051925ec746d4a9dbb241574b20b1c8e551772496170bd30c469398d7"
 
   url "https://github.com/superbiche/marque/releases/download/v#{version}/Marque_#{version}_universal.dmg"
   name "Marque"
